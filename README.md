@@ -1,7 +1,7 @@
-Data-Science-Analytics_Internship_Tasks_PHASE-2
+**Data-Science-Analytics_Internship_Tasks_PHASE-2**
 Bank Marketing Prediction Project Task Objective The objective of this project is to predict whether a customer will subscribe to a term deposit based on their personal and campaign-related information. The task focuses on handling an imbalanced dataset and building a model that can accurately identify potential customers.
 
-Approach
+**Approach**
 
 Data Preprocessing • Loaded and explored the dataset • Handled missing values (if any) • Encoded categorical variables • Checked class imbalance in the target variable
 Feature Selection • Selected relevant features affecting customer decisions • Removed unnecessary or redundant columns
